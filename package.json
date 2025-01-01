@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node index.js",  
+    "dev": "nodemon index.js"  
   },
   "keywords": [],
   "author": "",
@@ -18,3 +18,4 @@
     "mongoose": "^8.9.2"
   }
 }
+
